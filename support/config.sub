@@ -1991,6 +1991,7 @@ case $os in
 	| cos* \
 	| cxux* \
 	| cygwin* \
+	| cykusz* \
 	| darwin* \
 	| dgux* \
 	| dicos* \
